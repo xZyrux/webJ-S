@@ -1,0 +1,17 @@
+body{
+   font-family: Arial;
+}
+
+h1{
+   text-align: center;
+}
+
+.persona1{
+   background-color: lightblue;
+   padding: 20px;
+}
+
+.persona2{
+   background-color: lightgreen;
+   padding: 20px;
+}
