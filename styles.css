@@ -12,8 +12,12 @@ h1{
 }
 
 .persona2{
-   background-color: lightgreen;
-   padding: 20px;
+   width: 200px;
+   height: auto;
+   border-radius: 50%;
+   margin-top: 15px;
+   background-color: blue;
+   padding: 30px;
    color:violet
 }
 
